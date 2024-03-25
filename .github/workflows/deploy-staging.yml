@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace srinivas-reddy-mula with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: srinivas-reddy-mula-azure-ttt
+  DOCKER_IMAGE_NAME: <username>-azure-ttt
   AZURE_WEBAPP_NAME: srinivas-reddy-mula-ttt-app
   ###############################################
 
